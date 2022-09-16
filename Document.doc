@@ -1,0 +1,7 @@
+                 SOME NOTE ABOUT HTML
+1. Each tag will have only one ID
+2. Each tag may have multiple class and class may be shared between tag
+3. There are 3 ways of writting CSS
+   - writting within <style></style>. (Internal Style)
+   - writting inline html tag.(Inline Style)
+   - writting in CSS file.(External Style)
